@@ -6,11 +6,6 @@
 - [Overview](#overview)
 - [Project Description](#project-description)
 - [Techniques Used](#techniques-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
