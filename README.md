@@ -1,8 +1,6 @@
 # Assignment-06
 # Image Processing and Transfer Learning Project
 
-![Project Image](project_image.jpg)
-
 ## Table of Contents
 
 - [Overview](#overview)
